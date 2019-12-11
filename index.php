@@ -3,7 +3,7 @@
   </head>
   <body>
     
-      <a href="info.php">
+      <a href="guia1.php">
       Guia #1
       </a>
   </body>
