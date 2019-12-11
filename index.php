@@ -10,8 +10,8 @@
 
   <title>Heroic Features - Start Bootstrap Template</title>
 
-  <!-- <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <link href="css/heroic-features.css" rel="stylesheet"> -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/heroic-features.css" rel="stylesheet">
 
 </head>
 
