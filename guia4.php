@@ -206,7 +206,7 @@
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Es la permite ejecutar la macro en cualquier momento es ctrl +tecla.
+                R// Es la que permite ejecutar la macro en cualquier momento es ctrl +tecla.
                 </p>
                 </div>
             </div>

@@ -77,7 +77,7 @@
                  R// Ventajas:
                 </p>
                 <ul>
-                    <li>1. Hacer la comunicación ms sencilla.</li>
+                    <li>1. Hacer la comunicación mas sencilla.</li>
                     <li>2. Es posible conocer e interactuar con muchas personas todas partes del mundo.</li>
                     <li>3. La búsqueda de información se vuelve mucho más sencilla, sin tener que ir forzadamente a las bibliotecas tradicionales.</li>
                     <li>4. Es posible encontrar muchos puntos de vistas diferentes</li>

@@ -53,7 +53,7 @@
                 </div>
                 <div class="col col-lg-12">
                 <p>
-                R// Es un almacén donde se3 guardamos una colección o conjunto de información (textos, imágenes, sonidos, videos juegos) las cuales se encuentran relacionadas entre si 
+                R// Es un almacén donde se guardamos una colección o conjunto de información (textos, imágenes, sonidos, videos juegos) las cuales se encuentran relacionadas entre si 
                 y pueden ser accesibles y consultadas en cualquier momento.
                 </p>
                 </div>
@@ -209,7 +209,7 @@
                 <div class="col col-lg-12">
                 <p>
                 R// Es un programa que interactúa de manera clara y sencilla con otros softwares de Microsoft también muy utilizado como puede ser Excel e incluso Word o PowerPoint.
-                Datos adjuntos, auto numeración Moneda, fecha y hora Hipervínculo, numero Objeto, texto y si/no
+                Datos adjuntos, auto numeración Moneda, fecha y hora Hipervínculo, numero Objeto, texto y si/no.
                 </p>
                 </div>
             </div>
