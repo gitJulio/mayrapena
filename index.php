@@ -52,9 +52,9 @@
 
     <!-- Jumbotron Header -->
     <header class="jumbotron my-4">
-      <h1 class="display-3">Roberto Antonio Castejón Benitez</h1>
+      <h1 class="display-3">Mayra Lizeth Peña Reyes</h1>
       <p class="lead">Ingeniero. Ricardo Lagos.</p>
-      <p class="lead">Materia: Computación 2.</p>
+      <p class="lead">Materia: Computación II.</p>
       <p class="lead">Villanueva, Cortes 2019</p>
       <!-- <a href="#" class="btn btn-primary btn-lg">Call to action!</a> -->
     </header>
