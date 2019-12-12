@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Mayra Peña</title>
+  <title>Roberto Castejón</title>
 
    <!-- Bootstrap CSS -->
    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
@@ -22,26 +22,26 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#">Start Bootstrap</a>
+      <a class="navbar-brand" href="#">UCENM</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="#">Home
+            <a class="nav-link" href="index.php">Inicio
               <span class="sr-only">(current)</span>
             </a>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link" href="#">About</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Services</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
-          </li>
+            <a class="nav-link" href="#">Contacto</a>
+          </li> -->
         </ul>
       </div>
     </div>
@@ -52,69 +52,109 @@
 
     <!-- Jumbotron Header -->
     <header class="jumbotron my-4">
-      <h1 class="display-3">A Warm Welcome!</h1>
-      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid similique quaerat nam nobis illo aspernatur vitae fugiat numquam repellat.</p>
-      <a href="#" class="btn btn-primary btn-lg">Call to action!</a>
+      <h1 class="display-3">Roberto Antonio Castejón Benitez</h1>
+      <p class="lead">Ingeniero. Ricardo Lagos.</p>
+      <p class="lead">Materia: Computación 2.</p>
+      <p class="lead">Villanueva, Cortes 2019</p>
+      <!-- <a href="#" class="btn btn-primary btn-lg">Call to action!</a> -->
     </header>
 
     <!-- Page Features -->
     <div class="row text-center">
 
+
+    
+      <!---Guia 1--->
+    
       <div class="col-lg-3 col-md-6 mb-4">
-        <div class="card h-100">
-          <img class="card-img-top" src="http://placehold.it/500x325" alt="">
-          <div class="card-body">
+        <div class="card">
+          <img class="card-img-top" src="img/guia1.png" alt="">
+          <!-- <div class="card-body">
             <h4 class="card-title">Card title</h4>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-          </div>
+          </div> -->
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Find Out More!</a>
+            <a href="guia1.php" class="btn btn-primary"  target="_blank">Ver Guia</a>
           </div>
         </div>
       </div>
 
-      <div class="col-lg-3 col-md-6 mb-4">
-        <div class="card h-100">
-          <img class="card-img-top" src="http://placehold.it/500x325" alt="">
-          <div class="card-body">
-            <h4 class="card-title">Card title</h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo magni sapiente, tempore debitis beatae culpa natus architecto.</p>
-          </div>
-          <div class="card-footer">
-            <a href="#" class="btn btn-primary">Find Out More!</a>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-3 col-md-6 mb-4">
-        <div class="card h-100">
-          <img class="card-img-top" src="http://placehold.it/500x325" alt="">
-          <div class="card-body">
+            <!---Guia 1--->
+     
+            <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card">
+          <img class="card-img-top" src="img/guia2.png" alt="">
+          <!-- <div class="card-body">
             <h4 class="card-title">Card title</h4>
             <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-          </div>
+          </div> -->
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Find Out More!</a>
+            <a href="#" class="btn btn-primary">Ver Guia</a>
           </div>
         </div>
       </div>
 
-      <div class="col-lg-3 col-md-6 mb-4">
-        <div class="card h-100">
-          <img class="card-img-top" src="http://placehold.it/500x325" alt="">
-          <div class="card-body">
+            <!---Guia 1--->
+   
+            <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card">
+          <img class="card-img-top" src="img/guia3.png" alt="">
+          <!-- <div class="card-body">
             <h4 class="card-title">Card title</h4>
-            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo magni sapiente, tempore debitis beatae culpa natus architecto.</p>
-          </div>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+          </div> -->
           <div class="card-footer">
-            <a href="#" class="btn btn-primary">Find Out More!</a>
+            <a href="#" class="btn btn-primary">Ver Guia</a>
           </div>
         </div>
       </div>
+            <!---Guia 1--->
+     
+            <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card">
+          <img class="card-img-top" src="img/guia4.png" alt="">
+          <!-- <div class="card-body">
+            <h4 class="card-title">Card title</h4>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+          </div> -->
+          <div class="card-footer">
+            <a href="#" class="btn btn-primary">Ver Guia</a>
+          </div>
+        </div>
+      </div>
+
+            <!---Guia 1--->
+       
+      <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card">
+          <img class="card-img-top" src="img/guia5.png" alt="">
+          <!-- <div class="card-body">
+            <h4 class="card-title">Card title</h4>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+          </div> -->
+          <div class="card-footer">
+            <a href="#" class="btn btn-primary">Ver Guia</a>
+          </div>
+        </div>
+      </div>
+
+            <!---Guia 1--->
+            <div class="col-lg-3 col-md-6 mb-4">
+        <div class="card">
+          <img class="card-img-top" src="img/guia6.png" alt="">
+          <!-- <div class="card-body">
+            <h4 class="card-title">Card title</h4>
+            <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+          </div> -->
+          <div class="card-footer">
+            <a href="#" class="btn btn-primary">Ver Guia</a>
+          </div>
+        </div>
+      </div>
+
 
     </div>
     <!-- /.row -->
-
   </div>
   <!-- /.container -->
 
